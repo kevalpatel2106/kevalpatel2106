@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Keval Patel
 
-I'm an Android engineer. That's right, I make apps on for phone.
+I'm an Android engineer. That's right, I make apps for your phone.
 
 ![](https://github-profile-trophy.vercel.app/?username=kevalpatel2106)
 
