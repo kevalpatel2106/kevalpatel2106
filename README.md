@@ -27,7 +27,7 @@ I'm an Android engineer. That's right, I make apps for your phone.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevalpatel2106&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true" alt="kevalpatel2106" /></p>
 
 ### Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://go.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="70" height="40"/> </a>  <a href="https://www.python.org/psf-landing/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> </p>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6e05ae7d-419a-4f63-9bcf-dc15af78a1c3/81382a27-32c6-46f2-935c-1d746aff6631.png" width="450"/></a>
 
 ### 📫 How to reach me:
 
