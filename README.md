@@ -22,11 +22,9 @@ I'm an Android engineer. That's right, I make apps for your phone.
 
 
 ### GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=kevalpatel2106)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevalpatel2106&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true" alt="kevalpatel2106" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fork-nine.vercel.app/api?username=kevalpatel2106&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=ambient_gradient" alt="kevalpatel2106" /></p>
 
-### Languages and Tools
 <a href="https://wakatime.com/@kevalpatel2106"><img src="https://wakatime.com/share/@6e05ae7d-419a-4f63-9bcf-dc15af78a1c3/935892b5-edc3-45fa-bc93-56d90b35afc0.png" /></a>
 
 ### 📫 How to reach me:
